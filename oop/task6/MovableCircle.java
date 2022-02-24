@@ -1,4 +1,4 @@
-package task6;
+package oop.task6;
 
 public class MovableCircle implements Movable {
     private float radius;

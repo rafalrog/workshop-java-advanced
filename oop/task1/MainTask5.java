@@ -1,4 +1,6 @@
-package task1;
+package oop.task1;
+
+import oop.task1.Line;
 
 public class MainTask5 {
 

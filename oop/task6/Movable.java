@@ -1,4 +1,4 @@
-package task6;
+package oop.task6;
 
 public interface Movable {
     void moveUp();

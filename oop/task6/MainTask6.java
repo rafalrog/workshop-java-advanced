@@ -1,4 +1,4 @@
-package task6;
+package oop.task6;
 
 public class MainTask6 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package task6;
+package oop.task6;
 
 public class MovablePoint implements Movable {
     private int x, y;
